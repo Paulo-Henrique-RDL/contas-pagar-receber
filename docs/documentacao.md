@@ -2,7 +2,7 @@
 
 **Disciplina:** Sistemas Distribuídos
 **Etapa:** Aplicação monolítica
-**Integrantes:** _(preencher)_
+**Integrante:** Paulo Henrique Rodrigues de Lima
 
 > As seções **9, 10, 13, 18 e 19** pertencem à etapa de microsserviços e serão escritas na entrega de 06/12/2026, conforme o próprio enunciado indica. Elas aparecem aqui apenas como marcação.
 
@@ -564,9 +564,9 @@ As classes de teste rodam na mesma JVM e compartilham o banco. A limpeza de uma 
 
 No mesmo lote, outro erro mais sutil: a extração do id da resposta usava uma expressão regular gulosa, que capturava o `id` do objeto aninhado em vez do id da conta. Os testes falhavam com 404 em contas que existiam. Trocado por leitura via JsonPath.
 
-### _(a completar pelo grupo)_
+### _(a completar)_
 
-> Espaço para as dificuldades vivenciadas pela equipe: divisão de tarefas, aprendizado do Spring Boot, conciliação de horários, uso do Git em grupo.
+> Espaço para as demais dificuldades enfrentadas durante o desenvolvimento: aprendizado do Spring Boot, organização do tempo, uso do Git, decisões que precisaram ser revistas.
 
 ## 18. Comparação entre as Arquiteturas
 

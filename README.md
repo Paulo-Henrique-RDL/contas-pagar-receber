@@ -4,7 +4,7 @@ Projeto Integrador da disciplina de Sistemas Distribuídos. Sistema de controle 
 
 Este repositório contém a **etapa monolítica**.
 
-> **Integrantes do grupo:** _(preencher)_
+> **Integrante:** Paulo Henrique Rodrigues de Lima
 
 ## Requisitos
 
